@@ -62,3 +62,6 @@ echo $obj->public;
 
 
 
+
+// Abstraction
+
